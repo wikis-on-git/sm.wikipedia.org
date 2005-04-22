@@ -3,13 +3,13 @@
 {| cellspacing=3
 |- valign="top"
 |width="85%"|
-'''Welcome''' to Wikipedia!  
+'''TALOFA - Welcome''' to Wikipedia!  
 |- bgcolor="#f4fff4" style="border-style:solid;border-width:1px;padding:1em;padding-top:0;"
-|This subdomain is reserved for the [http://en.wikipedia.org/wiki/Samoan_language Samoan language] Wikipedia.  At the moment, there are '''{{NUMBEROFARTICLES}}''' articles in Samoan.
+|This subdomain is reserved for the [http://en.wikipedia.org/wiki/Samoan_language Samoan language] Wikipedia.  At the moment, there are '''{{NUMBEROFARTICLES}}''' articles in Samoan. See [[Special:Allpages|listing]].
 
-If you know this language, replace this text and start creating your encyclopedia!
+If you know this language, you may replace this text and help create your encyclopedia!
 
-For more information about the Wikipedia project go to the main website at [http://www.wikipedia.org www.wikipedia.org]
+For more information about the Wikipedia project, go to the main website at [http://www.wikipedia.org www.wikipedia.org]
 
 Find out more about [http://meta.wikimedia.org/wiki/How_to_start_a_new_Wikipedia Creating a new language in Wikipedia]
 
@@ -19,14 +19,14 @@ Find out more about [http://meta.wikimedia.org/wiki/How_to_start_a_new_Wikipedia
 *[[Amerika Samoa]]
 *[[Gagana Samoa]]
 
-*[[Aferika]]
+<!-- to help English-speaking editors, please leave translations inside tags like this:-->
+
+*[[Aferika]] <!-- Africa-->
 *[[Aikupito]]
 *[[Aila]]
-*[[Aisa]]
-*[[Aisakulimi]]
-
-
-
+*[[Aisa]] <!-- ice-->
+*[[Aisakulimi]] <!-- icecream-->
+     
 
 *[[Filipaina]]
 
