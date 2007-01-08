@@ -20,13 +20,6 @@ Mo se fa'amatalaga i le fa'atinoina o le Wikipedia,po'o le Wikipedia project, va
 
 *[http://sm.wikipedia.org/wiki/Special:Allpages All Articles].
 
-{| width="60%" style="border:1px solid black"
-|
-<inputbox>
-type=create
-width=45
-</inputbox>
-|}
 
 |}Fa'amolemole va'ai 'upu lanumūmū, 'olo'o mana'omia ai lau fesoasoani mo le fa'aliliuina po'o se fa'amatalaga fo'i o nei matā'upu.
 [[MOTU]]
@@ -86,7 +79,13 @@ MASINI/MEAOLA
 *[[Mūsika]]
 *[['Ofu]] : [[Puletasi]],[['Iefaitaga]],[[Sei]]
 
-
+{| width="60%" style="border:1px solid black"
+|
+<inputbox>
+type=create
+width=45
+</inputbox>
+|}
 [[de:]]
 [[en:]]
 [[mi:]]
