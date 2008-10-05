@@ -1,31 +1,31 @@
-{| border=2 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>Pusi</big></big><br /><big><big></big></big>
+{| border=0 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+| align=center colspan=2 style="background: pink;" |'''Pusi'''
 |-
-| style="background:#ffffff;" align=center colspan=2 |[[Image:Gymnothorax fimbriatus.jpg|right|230px|Pusi]]
+| style="background:#ffffff;" align=center colspan=2 |[[Image:Gymnothorax fimbriatus.jpg|230px|Pusi]]
 {| border=0 cellpadding=2 cellspacing=0
 |}
 |-
-| align=center colspan=2 style="background: #fffff0;" | Scientific classification
+| align=center colspan=2 style="background: pink;" | '''Scientific classification'''
 |-
-| '''kingdom'''
+|align=center | '''kingdom''':
 |    animalia
 |-
-| '''phylum'''
+|align=center | '''phylum''':
 |    chordata
 |-
-| '''class'''
+|align=center | '''class''':
 |    Actinopterygii
 |-
-| '''order'''
+|align=center | '''order''':
 |    Anguilliformes
 |-
-| '''family'''
+|align=center | '''family''':
 |    Muraenidae
 |-
-| '''Genus'''
+|align=center | '''Genus''':
 |    Gymnothorax
 |-
-| '''Species'''
+|align=center | '''Species''':
 |    G. fimbriatus
 |-
 | align=center colspan=2 style="background: #ffffff;" | 
