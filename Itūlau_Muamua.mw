@@ -1,6 +1,6 @@
 {| style="margin:4px 0px 0px 0px; width:100%; background:none"
-| class="MainPageBG" style="width:100%; border:1px solid #87CEEB; background:#87CEEB; vertical-align:top; color:#87CEEB; -moz-border-radius:4px" |
-{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#F2F5FD; color:#87CEEB; width:100%"
+| class="MainPageBG" style="width:100%; border:1px solid #87CEEB; background:#000; vertical-align:top; color:#000; -moz-border-radius:4px" |
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#000; color:#000; width:100%"
 |-
 |
 <!-------------------------------------------
