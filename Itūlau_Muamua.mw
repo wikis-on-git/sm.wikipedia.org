@@ -1,240 +1,240 @@
-(| Style = "margin: 4px 0px 0px 0px; width: 100%; background: none"
-| Class = "MainPageBG" style = "width: 100%; border: 1px solid # 87CEEB; background: # 000; vertical-align: top; color: # 000;-moz-border-radius: 4px" |
-(| Cellpadding = "2" cellspacing = "5" style = "vertical-align: top; background: # 000; color: # 000; width: 100%"
-| --
+{| style="margin:4px 0px 0px 0px; width:100%; background:none"
+| class="MainPageBG" style="width:100%; border:1px solid #87CEEB; background:#000; vertical-align:top; color:#000; -moz-border-radius:4px" |
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#000; color:#000; width:100%"
+|-
 |
 <!-------------------------------------------
---- Barra superior (TEXTO IZQUIERDA) --------
+--- BARRA SUPERIOR (TEXTO IZQUIERDA) --------
 -------------------------------------------->
-(| Style = "width: 60%; border: solid 0px; background: none"
-| Style = "width: 60%; text-align: center; white-space: nowrap; color: # 000" |
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000"> Talofa lava, </ div>
-<div style="top:+0.2em; font-size:100%"> Afio mai, mai maliu, Susu mai, mai i ulufale Wikipedia </ div>
-<div class="plainlinks" id="articlecount" style="width:100%; text-align:center; font-size:100%"> </ div>
+{| style="width:60%; border:solid 0px; background:none"
+| style="width:60%; text-align:center; white-space:nowrap; color:#000" |
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000">Talofa lava,</div>
+<div style="top:+0.2em; font-size:100%">Afio mai, maliu mai, susū mai, ulufale mai i Wikipedia!</div>
+<div class="plainlinks" id="articlecount" style="width:100%; text-align:center; font-size:100%"></div>
 |}<!-----------------------------------------
---- Barra superior (TEXTO DERECHA) ----------
+--- BARRA SUPERIOR (TEXTO DERECHA) ----------
 -------------------------------------------->
-| Style = "width: 40%; font-size: 100%; color: # 000; text-align: right" |
-CURRENTTIME (()) [[Tiempo universal coordinado | UTC]] - [[((CURRENTDAYNAME }}]],< br />[[{{ CURRENTDAY)) o ((CURRENTMONTHNAME))]] o le [[(( currentYear }}]].< br />
-[[Especial: Estadísticas NUMBEROFARTICLES |'''{{ }}''' artículos]] [| [Gagana Sāmoa i le Gagana Samoa]].
-|)
+| style="width:40%; font-size:100%; color:#000; text-align:right" |
+{{CURRENTTIME}} [[Tiempo universal coordinado|UTC]] – [[{{CURRENTDAYNAME}}]],<br />[[{{CURRENTDAY}} o  {{CURRENTMONTHNAME}}]] o le [[{{CURRENTYEAR}}]].<br />
+[[Special:Statistics|'''{{NUMBEROFARTICLES}}''' artículos]] [[Gagana Sāmoa|i le gagana samoa]].
+|}
 |}<!-----------------------------------------
---- MA PARTICIPACIÓN COMUNIDAD ---------------
+--- PARTICIPACIÓN MA COMUNIDAD ---------------
 -------------------------------------------->
-(| Style = "margin: 4px 0px 0px 0px; background: none"
-| Class = "MainPageBG" style = "width: 60%; border: 1px solid # DDDDF7; background: # F7F7FF; vertical-align: middle; color: # 000;-moz-border-radius: 4px" |
-(| Width = "100%" cellpadding = "2" cellspacing = "5" style = "vertical-align: top; background: # F7F7FF"
-| --
-| Width = "100%" align = "center" style = "padding-top: 2px; font-size: 100%" | [[Imagen: Communauté silhouette.svg | 20px | Participación y comunidad]]'' ' [[Wikipedia: Wikiproyectos | Participación]] ma [[Portal: Comunidad | Comunidad ]]'''
-[[fesoasoani: Cómo puedo colaborar | ¿Cómo colaborar?]]
-[[Imagen: Bullet red.png | 7px | ·]] [[Wikipedia: Talofa | Talofa]]
-[[Imagen: Bullet red.png | 7px | ·]] [[fesoasoani: Introducción | Primeros pasos]] <br /> clear="all"
-[[Imagen: Tutorial | Tutorial]]
-[[Imagen: Bullet red.png | 7px | ·]] [[Fesoasoani: Malie Loto | Fesoasoani]] <br /> clear="all"
-[[Wikipedia: Café | Café]] [[Imagen: Bullet red.png | 7px | ·]] [[fesoasoani: fesili | fesili]]
+{| style="margin:4px 0px 0px 0px; background:none"
+| class="MainPageBG" style="width:60%; border:1px solid #DDDDF7; background:#F7F7FF; vertical-align: middle; color:#000; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#F7F7FF"
+|-
+| width="100%" align="center" style="padding-top:2px; font-size:100%" | [[File:Communauté silhouette.svg|20px|Participación y comunidad]] &nbsp; '''[[Wikipedia:Wikiproyectos|Participation]] ma [[Portal:Comunity|comunity]]'''
+[[fesoasoani:Cómo puedo colaborar|¿Cómo colaborar?]]
+[[File:Bullet red.png|7px|·]] [[Wikipedia:Talofa|Talofa]]
+[[File:Bullet red.png|7px|·]] [[fesoasoani:Introduction|Primeros pasos]]<br clear="all" />
+[[File:Tutorial|Tutorial]] 
+[[File:Bullet red.png|7px|·]] [[Fesoasoani:loto malie|Fesoasoani]]<br clear="all" /> 
+[[Wikipedia:Coffee|Coffee]] [[File:Bullet red.png|7px|·]] [[fesoasoani:fesili|fesili]]
 |}<!-----------------------------------------
---- Sa'ili ma filifili -------------------
+--- Sa‘ili ma filifili  -------------------
 -------------------------------------------->
-| Style = "border: 1px transparente y sólida" |
-| Class = "MainPageBG" style = "width: 40%; border: 1px solid # CCF7CC; background: # EEFFEE; vertical-align: top;-moz-border-radius: 4px" |
-(| Width = "100%" cellpadding = "2" cellspacing = "5" style = "vertical-align: top; background: # EEFFEE"
-| --
-| Width = "100%" style = "padding-top: 2px; font-size: 100%" align = "center" | [[Imagen: Recherche silhouette.svg | 20px | Sa'ili ma filifili]] " ''[[Special: Search | Sa'ili]] ma [[Wikipedia: Consultas | filifili ]]'''
+| style="border:1px solid transparent" |
+| class="MainPageBG" style="width:40%; border:1px solid #CCF7CC; background:#EEFFEE; vertical-align:top; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#EEFFEE"
+|-
+| width="100%" style="padding-top:2px;font-size:100%" align="center" | [[File:Recherche silhouette.svg|20px|Sa‘ili ma filifili]] &nbsp; '''[[Special:search|Sa‘ili]] ma [[Wikipedia:Consultas|filifili]]'''
 
-Categorías [[Especial: | Todas las categorías]]
-<br /> clear="all"
-[[Wikipedia: Índice AZ | Índice AZ]] [[Imagen: Bullet red.png | 7px | ·]] [[Especial: Allpages | uma UIT Laupepa]] <br /> clear="all"
-[[Portal: Portales | todos los portales]]
-|)
+[[Special:Categories|Todas las categorías]]
+<br clear="all" />
+[[Wikipedia:A-Z index|A-Z index]] [[File:Bullet red.png|7px|·]] [[Special:AllPages|uma itu laupepa]]<br clear="all" />
+[[Portal:portals|all portals]] 
+|}
 |}<!-----------------------------------------
 --- BARRA DE CONTENIDOS IZQUIERDA -----------
 -------------------------------------------->
-(| Style = "margin: 4px 0px 0px 0px; background: none"
-| Class = "MainPageBG" style = "width: 60%; border: 1px solid # cedff2; background: # ffffff; vertical-align: top; color: # 000;-moz-border-radius: 4px" |
-(| Width = "100%" cellpadding = "2" cellspacing = "5" style = "vertical-align: top; background: # ffffff"
-! style="margin: <div margin:2px 2px 0px 0px"> [[Imagen: Wikibar2.png | Artículo destacado]] </ div> <h2 style = "margin: 0; background: # E6ECFF; font-size : 100%; font-weight: bold; border: 1px solid # cccccc; text-align: left; color: # 000; padding: 0.2em 0.4em;-moz-border-radius: 6px "> [[Imagen: Cscr -featured.svg | 20px | Artículo destacado]] [[Wikipedia: Artículos destacados | Artículo destacado]] </ h2>
-| --
-| Style = "color: # 000; font-size: 100%" | ((Portada: Destacado))
-| --
-! style="margin: <div margin:2px 2px 0px 0px"> [[Imagen: Wikibar2.png | Artículo bueno]] </ div> <h2 style = "margin: 0; background: # DCFFD1; font-size : 100%; font-weight: bold; border: 1px solid # cccccc; text-align: left; color: # 000; padding: 0.2em 0.4em;-moz-border-radius: 6px "> [[Imagen: Artículo bueno.svg | 20px | Artículo bueno]] [[Wikipedia: Artículos buenos | Artículo bueno]] </ h2>
-| --
-| Style = "color: # 000; font-size: 100%; padding: 5px; padding-top: 10px; padding-bottom: 10px" | (()) ABDD
-| --
-! style="margin: <div margin:2px 2px 0px 0px"> [[Imagen: Wikibar2.png | Imagen del día]] </ div> <h2 style = "margin: 0; background: # FFE6F9; font - Tamaño: 100%; font-weight: bold; border: 1px solid # cccccc; text-align: left; color: # 000; padding: 0.2em 0.4em;-moz-border-radius: 6px "> [[Imagen: alt Art-2.svg | 20px | Imagen del día]] [[Wikipedia: fa'atagata ao | ao fa'atagata]] </ h2>
-| --
-| Style = "color: # 000; font-size: 100%" | [[Imagen: Bandera de Samoa.svg | 200px]]
-| --
-! style="margin: <div margin:2px 2px 0px 0px"> [[Imagen: Wikibar2.png | Actualidad]] </ div> <h2 style = "margin: 0; background: # E6F2EF; font-size: 100%; font-weight: bold; border: 1px solid # cccccc; text-align: left; color: # 000; padding: 0.2em 0.4em;-moz-border-radius: 6px "> [[Imagen: Gnome globe event.svg actual | 20px | Actualidad]] [[Portal: Actualidad | Actualidad]] </ h2>
-| --
-| Style = "color: # 000; font-size: 100%" | ((Portada: Actualidad))
-| --
-! style="margin: <div margin:2px 2px 0px 0px"> [[Imagen: Wikibar2.png | En este día]] </ div> <h2 style = "margin: 0; background: # FFEDCC; font - Tamaño: 100%; font-weight: bold; border: 1px solid # cccccc; text-align: left; color: # 000; padding: 0.2em 0.4em;-moz-border-radius: 6px "> [[Imagen: Oficina calendar.svg | 20px | En este día]] [[Wikipedia: En este día | En este día]] </ h2>
-| --
-| Style = "color: # 000; font-size: 100%" | ((Efemérides - CURRENTDAY (()) de ((CURRENTMONTHNAME))))
-| --
-| Style = "color: # 000; font-size: 100%" | ((SQ))
-|)
-| Style = "border: 1px solid transparente" | <! --
+{| style="margin:4px 0px 0px 0px; background:none"
+| class="MainPageBG" style="width:60%; border:1px solid #cedff2; background:#ffffff; vertical-align:top; color:#000; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#ffffff"
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo destacado]]</div><h2 style="margin:0; background:#E6ECFF; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Cscr-featured.svg|20px|Artículo destacado]] [[Wikipedia:Artículos destacados|Artículo destacado]]</h2>
+|-
+| style="color:#000; font-size:100%" | {{Portada:Destacado}}
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo bueno]]</div><h2 style="margin:0; background:#DCFFD1; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Artículo bueno.svg|20px|Artículo bueno]] [[Wikipedia:Artículos buenos|Artículo bueno]]</h2>
+|-
+| style="color:#000; font-size:100%; padding:5px; padding-top:10px; padding-bottom:10px" | {{ABDD}}
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Imagen del día]]</div><h2 style="margin:0; background:#FFE6F9; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Art alt-2.svg|20px|Imagen del día]] [[Wikipedia:ao fa‘atagata|ao fa‘atagata]]</h2>
+|-
+| style="color:#000; font-size:100%" | [[File:Flag of Samoa.svg|200px]]
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Actuality]]</div><h2 style="margin:0; background:#E6F2EF; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Gnome globe current event.svg|20px|Actuality]] [[Portal:Actuality|Actuality]]</h2>
+|-
+| style="color:#000; font-size:100%" | {{Portada:Actualidad}} Troy
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|On this day]]</div><h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Office-calendar.svg|20px|On this day]] [[Wikipedia:On this day|On this day]]</h2>
+|-
+| style="color:#000; font-size:100%" | {{Efemérides - {{CURRENTDAY}} de {{CURRENTMONTHNAME}}}}
+|-
+| style="color:#000; font-size:100%" | {{SQ}}
+|}
+| style="border:1px solid transparent" | <!--
 ---------------------------------------------
 --- BARRA DE CONTENIDOS DERECHA -------------
 -------------------------------------------->
-| Class = "MainPageBG" style = "width: 40%; border: 1px solid # cef2e0; background: # f5faff; vertical-align: top;-moz-border-radius: 4px" |
-(| Width = "100%" cellpadding = "2" cellspacing = "5" style = "vertical-align: top; background: # f5faff"
-! <h2 style = "margin: 0; background: # ffdead; font-size: 100%; font-weight: bold; border: 1px solid # E8DDC9; text-align: left; color: # 000; padding: 0.2em 0,4 em;-moz-border-radius: 4px "> [[muagagana o Samoa]] </ h2>
-| --
-| Style = "color: # 000; padding-left: 5px; padding-right: 5px" |'' ' «O le ta e le agaia lau afioga»'''
-| --
-! <h2 style = "margin: 0; background: # F0EE90; font-size: 100%; font-weight: bold; border: 1px solid # E8DDC9; text-align: left; color: # 000; padding: 0.2em 0,4 em;-moz-border-radius: 4px "> [[Wikipedia: Categorías | Categorías]] </ h2>
-| --
-| Style = "color: # 000; padding-left: 5px; padding-right: 5px" | ((Portada: Categorías II))
-| --
-! <h2 style = "margin: 0; background: # FFEDCC; font-size: 100%; font-weight: bold; border: 1px solid # E8DDC9; text-align: left; color: # 000; padding: 0.2em 0,4 em;-moz-border-radius: 4px "> Otros proyectos </ h2>
-| --
-| Style = "color: # 000; padding-left: 5px; padding-right: 5px" | ((Portada: Interproyectos II))
-| --
-! <h2 style = "margin: 0; background: # E0FFFF; font-size: 100%; font-weight: bold; border: 1px solid # E8DDC9; text-align: left; color: # 000; padding: 0.2em 0,4 em;-moz-border-radius: 4px "> Le ISI Gagana </ h2>
-| --
-| Style = "color: # 000; padding-left: 5px; padding-right: 5px" | <div style="font-size:8pt">
+| class="MainPageBG" style="width:40%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff"
+! <h2 style="margin:0; background:#FFDEAD; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[muagagana o samoan]]</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | '''«O le ta e le agaia lau afioga»'''
+|-
+! <h2 style="margin:0; background:#F0EE90; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Wikipedia:Categorias|Categorias]]</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | {{Portada:Categorias II}}
+|-
+! <h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">Otros proyectos</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | {{Portada:Interproyectos II}}
+|-
+! <h2 style="margin:0; background:#E0FFFF; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">le isi gagana</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | <div style="font-size:8pt">
 Ediciones de Wikipedia con más de 300.000 artículos:
 
-[[: de: | Deutsch (alemán)]] · [[: en: | English (Inglés)]] · [[: en: | Español]] · [[: fr: | Français (francés)]] · [ [: es: | Italiano]] · [[: ja: | ((lang | japonés]] · [[: nl: | Nederlands (neerlandés)]] · [[: pl: | Polski (Polaco)]] · [ [: PT: | Português (portugués)]] · [[: ru: | ((lang | ruso]] · [[: SV: | Svenska (sueco)]]
+[[:de:|Deutsch (alemán)]] · [[:en:|English (inglés)]] · [[:es:|Español]] · [[:fr:|Français (francés)]] · [[:it:|Italiano]] · [[:ja:|{{lang|japonés]]· [[:nl:|Nederlands (neerlandés)]] · [[:pl:|Polski (polaco)]] · [[:pt:|Português (portugués)]] · [[:ru:|{{lang|ruso]] · [[:sv:|Svenska (sueco)]]
 
 Ediciones de Wikipedia con más de 100.000 artículos:
 
-[[: ar: | árabe]] · [[: ca: | Català (catalán)]] · [[: cs: | Česky (Pacheco)]] · [[: da: | Dansk (danés)]] · [ [eo:: | Esperanto]] · [[: id: | Bahasa Indonesia (indonesio)]] · [[: hu: | Magyar (húngaro)]] · [[: no: | Bokmål (Noruego)]] · [ [: FI: | Suomi (finlandés)]] · [[: ro: | Română (Romanian)]] · [[: SK: | Slovenčina (eslovaco)]] · [[: TR: | Türkçe (turco)]] · [[: Reino Unido: | Ukrainian]] · [[: VO: | Volapük]] · [[: zh: | Chino]]
+[[:ar:|árabe]] · [[:ca:|Català (catalán)]] · [[:cs:|Česky (checo)]] · [[:da:|Dansk (danés)]] · [[:eo:|Esperanto]] · [[:id:|Bahasa Indonesia (indonesio)]] · [[:hu:|Magyar (húngaro)]] · [[:no:|Bokmål (noruego)]] · [[:fi:|Suomi (finlandés)]] · [[:ro:|Română (rumano)]] · [[:sk:|Slovenčina (eslovaco)]] · [[:tr:|Türkçe (turco)]] · [[:uk:|ucraniano]] · [[:vo:|Volapük]] · [[:zh:|chino]]
 
 Ediciones de Wikipedia con más de 50.000 artículos:
 
-[[: bg: | búlgaro]] · [[: et: | Eesti (estonio)]] · [[: fa: | persa]] · [[: él: | hebreo]] · [[: HR: | Hrvatski (croata)]] · [[: HT: | Ripoarisch (criollo haitiano)]] · [[: ht: Paj Prensipal | creole (criollo haitiano)]] · [[: ko: | Koreano]] · [[ : LT: | Lietuvių (lituano)]] · [[: nueva: | Bhasa Nepal]] · [[: simple: | Simple Inglés (simple castellano)]] · [[: sl: | Slovenščina (esloveno)]] · [[: sr: | serbio]] · [[: vi: | Tiếng Việt (vietnamita)]]
+[[:bg:|búlgaro]] · [[:et:|Eesti (estonio)]] · [[:fa:|persa]] · [[:he:|hebreo]] · [[:hr:|Hrvatski (croata)]] · [[:ht:|Krèyol ayisyen (criollo haitiano)]] · [[:ht:Paj Prensipal|haitian creole (haitiano criollo)]] · [[:ko:| coreano]] · [[:lt:|Lietuvių (lituano)]] · [[:new:|nepal bhasa]] · [[:simple:|Simple English (inglés simple)]] · [[:sl:|Slovenščina (esloveno)]] · [[:sr:|serbio]] · [[:vi:|Tiếng Việt (vietnamita)]]
 
 sili Wikipedia:
 
 [http://meta.wikimedia.org/wiki/Lista_de_Wikipedias Lista completa de Wikipedias]
 
-</ div>
-</ div>
+</div>
+</div>
 
-|)
-|)
+|}
+|}
 __NOTOC__
 
 
-[[af: Tuisblad]]
-[[als: Houptsyte]]
-[[an: Portalada]]
-[[ang: Hēafodsīde]]
-[[ar: الصفحة الرئيسية]]
-[[ast: Portada]]
-[[az: Ana Səhifə / آنا صحیفه]]
-[[bar: Hauptseitn]]
-[[bg: Начална страница]]
-[[br: Degemer]]
-[[bs: strana Sayfa]]
-[[ca: Portada]]
-[[co: Maestra página]]
-[[CRH: Bas Saife]]
-[[cs: Hlavní strana]]
-[[cy: Hafan]]
-[[da: Forside]]
-[[de: Wikipedia: Hauptseite]]
-[[diq: Pela Seri]]
-[[DV: މ ަ އ ި ޞ ަ ފ ް ޙ ާ]]
-[[el: Κύρια Σελίδα]]
-[[en: Portada]]
-[[eo: Ĉefpaĝo]]
-[[en: Portada]]
-[[et: Esileht]]
-[[eu: Azala]]
-[[fa: صفحه اصلی]]
-[[fi: Wikipedia: Etusivu]]
-[[fiu-vro: Pääleht]]
-[[FJ: Tabana Levu]]
-[[de: Forsíða]]
-[[fr: Accueil]]
-[[fy: Haadside]]
-[[ga: Príomhleathanach]]
-[[gd: Prìomh-Dhuilleag]]
-[[gl: Portada]]
-[[GV: Ard-ghuillag]]
-[[haw: Ka papa Kinohi]]
-[[él: עמוד ראשי]]
-[[hi: मुखपृष्ठ]]
-[[HIF: Pahila Panna]]
-[[hr: stranica Glavna]]
-[[ht: Paj Prensipal]]
-[[hu: Kezdőlap]]
-[[hy: Գլխավոր Էջ]]
-[[ia: Pagina principal]]
-[[id: Halaman Utama]]
-[[IG: Page MBU]]
-[[io: Frontispico]]
-[[it: Pagina principale]]
+[[af:Tuisblad]]
+[[als:Houptsyte]]
+[[an:Portalada]]
+[[ang:Hēafodsīde]]
+[[ar:الصفحة الرئيسية]]
+[[ast:Portada]]
+[[az:Ana Səhifə / آنا صحیفه]]
+[[bar:Hauptseitn]]
+[[bg:Начална страница]]
+[[br:Degemer]]
+[[bs:Početna strana]]
+[[ca:Portada]]
+[[co:Pagina maestra]]
+[[crh:Baş Saife]]
+[[cs:Hlavní strana]]
+[[cy:Hafan]]
+[[da:Forside]]
+[[de:Wikipedia:Hauptseite]]
+[[diq:Pela Seri]]
+[[dv:މައި ޞަފްޙާ]]
+[[el:Κύρια Σελίδα]]
+[[en:Main Page]]
+[[eo:Ĉefpaĝo]]
+[[es:Portada]]
+[[et:Esileht]]
+[[eu:Azala]]
+[[fa:صفحهٔ اصلی]]
+[[fi:Wikipedia:Etusivu]]
+[[fiu-vro:Pääleht]]
+[[fj:Tabana levu]]
+[[fo:Forsíða]]
+[[fr:Accueil]]
+[[fy:Haadside]]
+[[ga:Príomhleathanach]]
+[[gd:Prìomh-Dhuilleag]]
+[[gl:Portada]]
+[[gv:Ard-ghuillag]]
+[[haw:Ka papa kinohi]]
+[[he:עמוד ראשי]]
+[[hi:मुखपृष्ठ]]
+[[hif:Pahila Panna]]
+[[hr:Glavna stranica]]
+[[ht:Paj Prensipal]]
+[[hu:Kezdőlap]]
+[[hy:Գլխավոր Էջ]]
+[[ia:Pagina principal]]
+[[id:Halaman Utama]]
+[[ig:Page mbu]]
+[[io:Frontispico]]
+[[it:Pagina principale]]
 [[ja:メインページ]]
-[[ka: მთავარი გვერდი]]
-[[KL: Saqqaa]]
-[[km: ទំព័រដើម]]
-[[kn: ಮುಖ್ಯ ಪುಟ]]
-[[ko: 대문]]
-[[ku: Destpêk]]
-[[kw: Pennfolen]]
-[[la: Prima pagina]]
-[[lb: Haaptsäit]]
-[[li: Veurblaad]]
-[[lt: Pagrindinis puslapis]]
-[[lv: Sākumlapa]]
-[[mg: Fandraisana]]
-[[mi: Hau kainga]]
-[[mk: Главна страница]]
-[[ms: Página principal de]]
-[[mzn: گت ولگ]]
-[[na: Bwiema Peij]]
-[[nah: Calīxatl]]
-[[NDS: Wikipedia: Hööftsiet]]
-[[nds-nl: Veurblad]]
-[[nl: Hoofdpagina]]
-[[nn: Hovudside]]
-[[no: Página Principal]]
-[[NV: Íiyisíí Naaltsoos]]
-[[oc: Acuèlh]]
-[[os: Сæйраг фарс]]
-[[PIH: Mien Paij]]
-[[pl: Strona główna]]
-[[ps: لومړی مخ]]
-[[pt: Página principal]]
-[[RM: Pagina principala]]
-[[ro: Pagina principală]]
-[[-roa RUP: Prota frãndzã]]
-[[ru: Заглавная страница]]
-[[sa: मुख्यपृष्ठम्]]
-[[sd: مک صفحو]]
-[[sh: stranica Glavna / Главна страница]]
-[[si: මුල් පිටුව]]
-[[simple: Portada]]
-[[sk: Hlavná Stránka]]
-[[Sl: stran Glavna]]
-[[sq: Faqja Kryesore]]
-[[sr: Главна страна]]
-[[STQ: Haudsiede]]
-[[sv: Portal: Huvudsida]]
-[[SW: Mwanzo]]
-[[te: మొదటి పేజీ]]
-[[TG: Саҳифаи Аслӣ]]
-[[th: หน้าหลัก]]
-[[tl:: primero pahina]]
-[[a: Peesi tali fiefia]]
-[[TPI: pes Fran]]
-[[tr: Ana Sayfa]]
-[[ty: Fa'ari'ira'a]]
-[[uk: Головна стаття]]
-[[UR: صفحہ اول]]
-[[uz: Bosh Sahifa]]
-[[vi: Trang Chính]]
-[[vls: Voorblad]]
-[[wa: pådje Mwaisse]]
-[[wo: XET Wu njëkk]]
+[[ka:მთავარი გვერდი]]
+[[kl:Saqqaa]]
+[[km:ទំព័រដើម]]
+[[kn:ಮುಖ್ಯ ಪುಟ]]
+[[ko:대문]]
+[[ku:Destpêk]]
+[[kw:Pennfolen]]
+[[la:Pagina prima]]
+[[lb:Haaptsäit]]
+[[li:Veurblaad]]
+[[lt:Pagrindinis puslapis]]
+[[lv:Sākumlapa]]
+[[mg:Fandraisana]]
+[[mi:Hau Kāinga]]
+[[mk:Главна страница]]
+[[ms:Laman Utama]]
+[[mzn:گت ولگ]]
+[[na:Bwiema peij]]
+[[nah:Calīxatl]]
+[[nds:Wikipedia:Hööftsiet]]
+[[nds-nl:Veurblad]]
+[[nl:Hoofdpagina]]
+[[nn:Hovudside]]
+[[no:Hovedside]]
+[[nv:Íiyisíí Naaltsoos]]
+[[oc:Acuèlh]]
+[[os:Сæйраг фарс]]
+[[pih:Mien Paij]]
+[[pl:Strona główna]]
+[[ps:لومړی مخ]]
+[[pt:Página principal]]
+[[rm:Pagina principala]]
+[[ro:Pagina principală]]
+[[roa-rup:Prota frãndzã]]
+[[ru:Заглавная страница]]
+[[sa:मुख्यपृष्ठम्]]
+[[sd:مُک صفحو]]
+[[sh:Glavna stranica / Главна страница]]
+[[si:මුල් පිටුව]]
+[[simple:Main Page]]
+[[sk:Hlavná stránka]]
+[[sl:Glavna stran]]
+[[sq:Faqja Kryesore]]
+[[sr:Главна страна]]
+[[stq:Haudsiede]]
+[[sv:Portal:Huvudsida]]
+[[sw:Mwanzo]]
+[[te:మొదటి పేజీ]]
+[[tg:Саҳифаи Аслӣ]]
+[[th:หน้าหลัก]]
+[[tl:Unang Pahina]]
+[[to:Peesi tali fiefia]]
+[[tpi:Fran pes]]
+[[tr:Ana Sayfa]]
+[[ty:Fa’ari’ira’a]]
+[[uk:Головна стаття]]
+[[ur:صفحہ اول]]
+[[uz:Bosh Sahifa]]
+[[vi:Trang Chính]]
+[[vls:Voorblad]]
+[[wa:Mwaisse pådje]]
+[[wo:Xët wu njëkk]]
 [[wuu:封面]]
-[[yi: הויפט זייט]]
-[[yo: Ojúewé Akoko]]
-[[Zea: Vòblad]]
+[[yi:הויפט זייט]]
+[[yo:Ojúewé Àkọ́kọ́]]
+[[zea:Vòblad]]
 [[zh:首页]]
-[[zh-classical:维基大典:卷首]]
+[[zh-classical:維基大典:卷首]]
