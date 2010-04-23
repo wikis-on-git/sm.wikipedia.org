@@ -3,113 +3,48 @@
 {| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#F2F5FD; color:#87CEEB; width:100%"
 |-
 |
-<!-------------------------------------------
---- BARRA SUPERIOR (TEXTO IZQUIERDA) --------
--------------------------------------------->
 {| style="width:60%; border:solid 0px; background:none"
 | style="width:60%; text-align:center; white-space:nowrap; color:#000" |
+
 <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000">Talofa lava,</div>
 <div style="top:+0.2em; font-size:100%">Afio mai, maliu mai, susū mai, ulufale mai i Wikipedia!</div>
 <div class="plainlinks" id="articlecount" style="width:100%; text-align:center; font-size:100%"></div>
-|}<!-----------------------------------------
---- BARRA SUPERIOR (TEXTO DERECHA) ----------
--------------------------------------------->
+|}
 | style="width:40%; font-size:100%; color:#000; text-align:right" |
 {{CURRENTTIME}} [[Tiempo universal coordinado|UTC]] – [[{{CURRENTDAYNAME}}]],<br />[[{{CURRENTDAY}} o  {{CURRENTMONTHNAME}}]] o le [[{{CURRENTYEAR}}]].<br />
-[[Special:Statistics|'''{{NUMBEROFARTICLES}}''' artículos]] [[Gagana Sāmoa|i le gagana samoa]].
+[[Special:Statistics|'''{{NUMBEROFARTICLES}}''' matua o le upu]] [[Gagana Sāmoa|i le gagana samoa]].
 |}
-|}<!-----------------------------------------
---- PARTICIPACIÓN MA COMUNIDAD ---------------
--------------------------------------------->
-{| style="margin:4px 0px 0px 0px; background:none"
-| class="MainPageBG" style="width:60%; border:1px solid #DDDDF7; background:#F7F7FF; vertical-align: middle; color:#000; -moz-border-radius:4px" |
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#F7F7FF"
-|-
-| width="100%" align="center" style="padding-top:2px; font-size:100%" | [[File:Communauté silhouette.svg|20px|Participación y comunidad]] &nbsp; '''[[Wikipedia:Wikiproyectos|Participation]] ma [[Portal:Comunity|comunity]]'''
-[[fesoasoani:Cómo puedo colaborar|¿Cómo colaborar?]]
-[[File:Bullet red.png|7px|·]] [[Wikipedia:Talofa|Talofa]]
-[[File:Bullet red.png|7px|·]] [[fesoasoani:Introduction|Primeros pasos]]<br clear="all" />
-[[File:Tutorial|Tutorial]] 
-[[File:Bullet red.png|7px|·]] [[Fesoasoani:loto malie|Fesoasoani]]<br clear="all" /> 
-[[Wikipedia:Coffee|Coffee]] [[File:Bullet red.png|7px|·]] [[fesoasoani:fesili|fesili]]
-|}<!-----------------------------------------
---- Sa‘ili ma filifili  -------------------
--------------------------------------------->
-| style="border:1px solid transparent" |
-| class="MainPageBG" style="width:40%; border:1px solid #CCF7CC; background:#EEFFEE; vertical-align:top; -moz-border-radius:4px" |
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#EEFFEE"
-|-
-| width="100%" style="padding-top:2px;font-size:100%" align="center" | [[File:Recherche silhouette.svg|20px|Sa‘ili ma filifili]] &nbsp; '''[[Special:search|Sa‘ili]] ma [[Wikipedia:Consultas|filifili]]'''
-
-[[Special:Categories|Todas las categorías]]
-<br clear="all" />
-[[Wikipedia:A-Z index|A-Z index]] [[File:Bullet red.png|7px|·]] [[Special:AllPages|uma itu laupepa]]<br clear="all" />
-[[Portal:portals|all portals]] 
 |}
-|}<!-----------------------------------------
---- BARRA DE CONTENIDOS IZQUIERDA -----------
--------------------------------------------->
 {| style="margin:4px 0px 0px 0px; background:none"
 | class="MainPageBG" style="width:60%; border:1px solid #cedff2; background:#ffffff; vertical-align:top; color:#000; -moz-border-radius:4px" |
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#ffffff"
-! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo destacado]]</div><h2 style="margin:0; background:#E6ECFF; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Cscr-featured.svg|20px|Artículo destacado]] [[Wikipedia:Artículos destacados|Artículo destacado]]</h2>
 |-
-| style="color:#000; font-size:100%" | {{Portada:Destacado}}
+| style="color:#000; font-size:100%" | 
 |-
-! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo bueno]]</div><h2 style="margin:0; background:#DCFFD1; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Artículo bueno.svg|20px|Artículo bueno]] [[Wikipedia:Artículos buenos|Artículo bueno]]</h2>
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo bueno]]</div><h2 style="margin:0; background:#DCFFD1; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Artículo bueno.svg|20px|Le matua o le upu lelei]] [[Wikipedia:Matua o le upu lelei|Le matua o le upu lelei]]</h2>
 |-
-| style="color:#000; font-size:100%; padding:5px; padding-top:10px; padding-bottom:10px" | {{ABDD}}
+| style="color:#000; font-size:100%; padding:5px; padding-top:10px; padding-bottom:10px" |
 |-
 ! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Imagen del día]]</div><h2 style="margin:0; background:#FFE6F9; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Art alt-2.svg|20px|Imagen del día]] [[Wikipedia:ao fa‘atagata|ao fa‘atagata]]</h2>
 |-
-| style="color:#000; font-size:100%" | [[File:Flag of Samoa.svg|200px]]
+| style="color:#000; font-size:100%" | [[File:Afono_Village_NPS.jpg|200px]]
 |-
-! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Actuality]]</div><h2 style="margin:0; background:#E6F2EF; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Gnome globe current event.svg|20px|Actuality]] [[Portal:Actuality|Actuality]]</h2>
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|On this day]]</div><h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Office-calendar.svg|20px|Ao lenei]] Ao lenei</h2>
 |-
-| style="color:#000; font-size:100%" | {{Portada:Actualidad}} Troy
-|-
-! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|On this day]]</div><h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Office-calendar.svg|20px|On this day]] [[Wikipedia:On this day|On this day]]</h2>
-|-
-| style="color:#000; font-size:100%" | {{Efemérides - {{CURRENTDAY}} de {{CURRENTMONTHNAME}}}}
-|-
-| style="color:#000; font-size:100%" | {{SQ}}
+| style="color:#000; font-size:100%" | [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]]
 |}
-| style="border:1px solid transparent" | <!--
----------------------------------------------
---- BARRA DE CONTENIDOS DERECHA -------------
--------------------------------------------->
+| style="border:1px solid transparent" |
 | class="MainPageBG" style="width:40%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; -moz-border-radius:4px" |
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff"
-! <h2 style="margin:0; background:#FFDEAD; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[muagagana o samoan]]</h2>
+! <h2 style="margin:0; background:#FFDEAD; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Muagagana o samoan]]</h2>
 |-
 | style="color:#000; padding-left: 5px; padding-right: 5px" | '''«O le ta e le agaia lau afioga»'''
 |-
-! <h2 style="margin:0; background:#F0EE90; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Wikipedia:Categorias|Categorias]]</h2>
+! <h2 style="margin:0; background:#F0EE90; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Wikipedia:Categories|Categories]]</h2>
 |-
 | style="color:#000; padding-left: 5px; padding-right: 5px" | {{Portada:Categorias II}}
-|-
-! <h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">Otros proyectos</h2>
-|-
-| style="color:#000; padding-left: 5px; padding-right: 5px" | {{Portada:Interproyectos II}}
-|-
-! <h2 style="margin:0; background:#E0FFFF; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">le isi gagana</h2>
-|-
-| style="color:#000; padding-left: 5px; padding-right: 5px" | <div style="font-size:8pt">
-Ediciones de Wikipedia con más de 300.000 artículos:
 
-[[:de:|Deutsch (alemán)]] · [[:en:|English (inglés)]] · [[:es:|Español]] · [[:fr:|Français (francés)]] · [[:it:|Italiano]] · [[:ja:|{{lang|japonés]]· [[:nl:|Nederlands (neerlandés)]] · [[:pl:|Polski (polaco)]] · [[:pt:|Português (portugués)]] · [[:ru:|{{lang|ruso]] · [[:sv:|Svenska (sueco)]]
 
-Ediciones de Wikipedia con más de 100.000 artículos:
-
-[[:ar:|árabe]] · [[:ca:|Català (catalán)]] · [[:cs:|Česky (checo)]] · [[:da:|Dansk (danés)]] · [[:eo:|Esperanto]] · [[:id:|Bahasa Indonesia (indonesio)]] · [[:hu:|Magyar (húngaro)]] · [[:no:|Bokmål (noruego)]] · [[:fi:|Suomi (finlandés)]] · [[:ro:|Română (rumano)]] · [[:sk:|Slovenčina (eslovaco)]] · [[:tr:|Türkçe (turco)]] · [[:uk:|ucraniano]] · [[:vo:|Volapük]] · [[:zh:|chino]]
-
-Ediciones de Wikipedia con más de 50.000 artículos:
-
-[[:bg:|búlgaro]] · [[:et:|Eesti (estonio)]] · [[:fa:|persa]] · [[:he:|hebreo]] · [[:hr:|Hrvatski (croata)]] · [[:ht:|Krèyol ayisyen (criollo haitiano)]] · [[:ht:Paj Prensipal|haitian creole (haitiano criollo)]] · [[:ko:| coreano]] · [[:lt:|Lietuvių (lituano)]] · [[:new:|nepal bhasa]] · [[:simple:|Simple English (inglés simple)]] · [[:sl:|Slovenščina (esloveno)]] · [[:sr:|serbio]] · [[:vi:|Tiếng Việt (vietnamita)]]
-
-sili Wikipedia:
-
-[http://meta.wikimedia.org/wiki/Lista_de_Wikipedias Lista completa de Wikipedias]
 
 </div>
 </div>
@@ -117,7 +52,6 @@ sili Wikipedia:
 |}
 |}
 __NOTOC__
-
 
 [[af:Tuisblad]]
 [[als:Houptsyte]]
