@@ -1,109 +1,174 @@
-<!-- nagłówek -->
-<div title="Wstęp" style="margin-top:10px">
- <div title="Powitanie" style="text-align:center; margin-bottom:10px; margin-top:5px;">
-  <div style="border-style:none; margin:5px 0; padding:0; font-size:18px; font-weight:bold;">Witaj w [[Wikipedia:O Wikipedii|Wikipedii]] &ndash; [[Wolna dokumentacja|wolnej]] [[encyklopedia|encyklopedii]], którą możesz redagować.</div>
-  <div>[[Polska Wikipedia|Polska wersja]] ma już '''[[Wikipedia:Liczba artykułów polskiej Wikipedii|{{#expr:({{NUMBEROFARTICLES}} - ({{NUMBEROFARTICLES}} mod 1000))/1000}}&nbsp;{{padleft:{{#expr:{{NUMBEROFARTICLES}} mod 1000}}|3|0}}]]''' {{PLURAL:{{NUMBEROFARTICLES}}|hasło|hasła|haseł}}.</div>
- </div>
- <div title="Porady" style="text-align:center; font-variant:small-caps;">
-[[Pomoc:Kopiowanie z Wikipedii#Cytowanie na zasadach ogólnych|<span style="color:green">Jak cytować?</span>]] • [[Pomoc:Kopiowanie z Wikipedii|<span style="color:green">Jak wykorzystywać materiały z Wikipedii?</span>]] • [[Wikipedia:Wstęp|<span style="color:green">Jak zacząć edytować?</span>]]</div>
- <div title="Kategorie na Wikipedii" style="clear:both; margin:0 3px 1em; font-variant:small-caps; text-align:center; font-size:13px;">
-{{Kategorie}}</div>
-</div>
-<!-- koniec nagłówek -->
-{{clear}}
-<!-- lewa kolumna -->
-<div style="float: left; width: 49.5%;">
-<!-- aktualności -->
-<div style="border:1px solid #8898bf;">
-<div style="background-color: #a8d3ff; font-size: 1px; height: 8px; border-bottom: 1px solid #8898bf;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Local-time.svg|48px|link=Szablon:Aktualności]]</div>
-== Aktualności ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="mp-itn">
-{{Aktualności}}
-</div>
-</div>
-<!-- koniec aktualności -->
-<!-- wybrane rocznice -->
-<div style="border: 1px solid #8898bf; margin-top: 10px;">
-<div style="background-color: #a8d3ff; font-size: 1px; height: 8px; border-bottom: 1px solid #8898bf;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Noia 64 apps date pl.png|50px|link={{LOCALDAY}} {{LOCALMONTHNAMEGEN}}]]</div>
-== Wybrane rocznice ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="mp-otd">
-{{Rocznice {{LOCALDAY}} {{LOCALMONTHNAMEGEN}}}}
-</div>
-</div>
-<!-- koniec wybrane rocznice -->
-<!-- zdjęcie tygodnia -->
-<div style="border: 1px solid #8898bf; margin: 10px 0;">
-<div style="background-color: #a8d3ff; font-size: 1px; height: 8px; border-bottom: 1px solid #8898bf;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Propozycja GnM3.svg|40px|link=Wikipedia:Grafika na medal]]</div>
-== Ilustracja na medal ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="wp-tfp">
-{{Ilustracja na medal}}
-</div>
-</div>
-<!-- koniec zdjęcie tygodnia -->
-</div>
-<!-- koniec lewa kolumna -->
-<!-- prawa kolumna -->
-<div style="float: right; width: 49.5%;">
-<!-- czy wiesz -->
-<div style="border: 1px solid #97bf87;">
-<div style="background-color: #aaddaa; font-size: 1px; height: 8px; border-bottom: 1px solid #97bf87;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Information icon.svg|45px|link=Szablon:Czy wiesz]]</div>
-== Czy wiesz... ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="mp-dyk">
-{{Czy wiesz}}
-</div>
-</div>
-<!-- koniec czy wiesz -->
-<!-- artykuł na medal -->
-<div style="border: 1px solid #97bf87; margin-top: 10px;">
-<div style="background-color: #aaddaa; font-size: 1px; height: 8px; border-bottom: 1px solid #97bf87;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Propozycja AnM.svg|40px|link=Wikipedia:Artykuły na medal]]</div>
-== Artykuł na medal ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="mp-tfa">
-{{Artykuł na medal}}
-</div>
-</div>
-<!-- koniec artykuł na medal -->
-<!-- dobry artykuł -->
-<div style="border: 1px solid #97bf87; margin-top: 10px;">
-<div style="background-color: #aaddaa; font-size: 1px; height: 8px; border-bottom: 1px solid #97bf87;"></div>
-<div style="float: right; margin: 12px 8px 0px 5px;">[[Plik:Propozycja DA.svg|40px|link=Wikipedia:Dobre Artykuły]]</div>
-== Dobry artykuł ==
-<div style="font-size: 9pt; padding: 0 5px 5px 5px;" id="mp-tfga">
-{{clear}}
-{{Dobry artykuł}}
-</div>
-</div>
-<!-- koniec dobrego artykułu -->
-</div>
-<!-- koniec prawa kolumna -->
-{{clear}}
-<!-- stopka -->
-<div style="width: 100%;">
-<!-- wikipedia -->
-<div style="border: 1px solid #ffbc79; margin: 10px 0;">
-<div style="background-color: #ffe9d2; font-size: 1px; height: 8px; border-bottom: 1px solid #ffbc79;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:HSWPedia.svg|60px|link=Wikipedia:Portal wikipedystów]]</div>
-== Z życia Wikipedii ==
-{{Z życia Wikipedii}}
-</div>
-<!-- koniec wikipedia -->
-<div style="width: 100%;">
-<!-- siostrzane -->
-<div style="border: 1px solid #ffbc79; margin: 10px 0;">
-<div style="background-color: #ffe9d2; font-size: 1px; height: 8px; border-bottom: 1px solid #ffbc79;"></div>
-<div style="float: right; margin: 5px 8px 0px 5px;">[[Plik:Wikimedia-logo-circle.svg|60px|link=meta:Współpraca między polskimi projektami]]</div>
-== Poznaj siostrzane projekty Wikipedii ==
-{{Siostrzane}}
-</div>
-<!-- koniec siostrzane -->
+{| style="margin:4px 0px 0px 0px; width:100%; background:none"
+| class="MainPageBG" style="width:100%; border:1px solid #87CEEB; background:#87CEEB; vertical-align:top; color:#87CEEB; -moz-border-radius:4px" |
+{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#F2F5FD; color:#87CEEB; width:100%"
+|-
+|
+{| style="width:60%; border:solid 0px; background:none"
+| style="width:60%; text-align:center; white-space:nowrap; color:#000" |
 
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000">Talofa lava,</div>
+<div style="top:+0.2em; font-size:100%">Afio mai, maliu mai, susū mai, ulufale mai i Wikipedia!</div>
+<div class="plainlinks" id="articlecount" style="width:100%; text-align:center; font-size:100%"></div>
+|}
+| style="width:40%; font-size:100%; color:#000; text-align:right" |
+{{CURRENTTIME}} [[Tiempo universal coordinado|UTC]] – [[{{CURRENTDAYNAME}}]],<br />[[{{CURRENTDAY}} o  {{CURRENTMONTHNAME}}]] o le [[{{CURRENTYEAR}}]].<br />
+[[Special:Statistics|'''{{NUMBEROFARTICLES}}''' matua o le upu]] [[Gagana Sāmoa|i le gagana samoa]].
+|}
+|}
+{| style="margin:4px 0px 0px 0px; background:none"
+| class="MainPageBG" style="width:60%; border:1px solid #cedff2; background:#ffffff; vertical-align:top; color:#000; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#ffffff"
+|-
+| style="color:#000; font-size:100%" | 
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Artículo bueno]]</div><h2 style="margin:0; background:#DCFFD1; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Artículo bueno.svg|20px|Le matua o le upu lelei]] [[Wikipedia:Matua o le upu lelei|Le matua o le upu lelei]]</h2>
+|-
+| style="color:#000; font-size:100%; padding:5px; padding-top:10px; padding-bottom:10px" |
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|Imagen del día]]</div><h2 style="margin:0; background:#FFE6F9; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Art alt-2.svg|20px|Imagen del día]] [[Wikipedia:ao fa‘atagata|ao fa‘atagata]]</h2>
+|-
+| style="color:#000; font-size:100%" | [[File:Afono_Village_NPS.jpg|200px]]
+|-
+! <div style="float:right; margin:2px 2px 0px 0px">[[File:Wikibar2.png|On this day]]</div><h2 style="margin:0; background:#FFEDCC; font-size:100%; font-weight:bold; border:1px solid #cccccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:6px">[[File:Office-calendar.svg|20px|Ao lenei]] Ao lenei</h2>
+|-
+| style="color:#000; font-size:100%" | [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]]
+|}
+| style="border:1px solid transparent" |
+| class="MainPageBG" style="width:40%; border:1px solid #cef2e0; background:#f5faff; vertical-align:top; -moz-border-radius:4px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff"
+! <h2 style="margin:0; background:#FFDEAD; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Muagagana o samoan]]</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | '''«O le ta e le agaia lau afioga»'''
+|-
+! <h2 style="margin:0; background:#F0EE90; font-size:100%; font-weight:bold; border:1px solid #E8DDC9; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px">[[Wikipedia:Categories|Kategori]]</h2>
+|-
+| style="color:#000; padding-left: 5px; padding-right: 5px" | {{Portada:Categorias II}}
+
+
+
+</div>
+</div>
+
+|}
+|}
 __NOTOC__
-__NOEDITSECTION__
 
-{{Interwiki}}
-
-[[Kategoria:Strona główna]]
+[[af:Tuisblad]]
+[[als:Houptsyte]]
+[[an:Portalada]]
+[[ang:Hēafodsīde]]
+[[ar:الصفحة الرئيسية]]
+[[ast:Portada]]
+[[az:Ana Səhifə / آنا صحیفه]]
+[[bar:Hauptseitn]]
+[[bg:Начална страница]]
+[[br:Degemer]]
+[[bs:Početna strana]]
+[[ca:Portada]]
+[[co:Pagina maestra]]
+[[crh:Baş Saife]]
+[[cs:Hlavní strana]]
+[[cy:Hafan]]
+[[da:Forside]]
+[[de:Wikipedia:Hauptseite]]
+[[diq:Pela Seri]]
+[[dv:މައި ޞަފްޙާ]]
+[[el:Κύρια Σελίδα]]
+[[en:Main Page]]
+[[eo:Ĉefpaĝo]]
+[[es:Portada]]
+[[et:Esileht]]
+[[eu:Azala]]
+[[fa:صفحهٔ اصلی]]
+[[fi:Wikipedia:Etusivu]]
+[[fiu-vro:Pääleht]]
+[[fj:Tabana levu]]
+[[fo:Forsíða]]
+[[fr:Accueil]]
+[[fy:Haadside]]
+[[ga:Príomhleathanach]]
+[[gd:Prìomh-Dhuilleag]]
+[[gl:Portada]]
+[[gv:Ard-ghuillag]]
+[[haw:Ka papa kinohi]]
+[[he:עמוד ראשי]]
+[[hi:मुखपृष्ठ]]
+[[hif:Pahila Panna]]
+[[hr:Glavna stranica]]
+[[ht:Paj Prensipal]]
+[[hu:Kezdőlap]]
+[[hy:Գլխավոր Էջ]]
+[[ia:Pagina principal]]
+[[id:Halaman Utama]]
+[[ig:Page mbu]]
+[[io:Frontispico]]
+[[it:Pagina principale]]
+[[ja:メインページ]]
+[[ka:მთავარი გვერდი]]
+[[kl:Saqqaa]]
+[[km:ទំព័រដើម]]
+[[kn:ಮುಖ್ಯ ಪುಟ]]
+[[ko:대문]]
+[[ku:Destpêk]]
+[[kw:Pennfolen]]
+[[la:Pagina prima]]
+[[lb:Haaptsäit]]
+[[li:Veurblaad]]
+[[lt:Pagrindinis puslapis]]
+[[lv:Sākumlapa]]
+[[mg:Fandraisana]]
+[[mi:Hau Kāinga]]
+[[mk:Главна страница]]
+[[ms:Laman Utama]]
+[[mzn:گت ولگ]]
+[[na:Bwiema peij]]
+[[nah:Calīxatl]]
+[[nds:Wikipedia:Hööftsiet]]
+[[nds-nl:Veurblad]]
+[[nl:Hoofdpagina]]
+[[nn:Hovudside]]
+[[no:Hovedside]]
+[[nv:Íiyisíí Naaltsoos]]
+[[oc:Acuèlh]]
+[[os:Сæйраг фарс]]
+[[pih:Mien Paij]]
+[[pl:Strona główna]]
+[[ps:لومړی مخ]]
+[[pt:Página principal]]
+[[rm:Pagina principala]]
+[[ro:Pagina principală]]
+[[roa-rup:Prota frãndzã]]
+[[ru:Заглавная страница]]
+[[sa:मुख्यपृष्ठम्]]
+[[sd:مُک صفحو]]
+[[sh:Glavna stranica / Главна страница]]
+[[si:මුල් පිටුව]]
+[[simple:Main Page]]
+[[sk:Hlavná stránka]]
+[[sl:Glavna stran]]
+[[sq:Faqja Kryesore]]
+[[sr:Главна страна]]
+[[stq:Haudsiede]]
+[[sv:Portal:Huvudsida]]
+[[sw:Mwanzo]]
+[[te:మొదటి పేజీ]]
+[[tg:Саҳифаи Аслӣ]]
+[[th:หน้าหลัก]]
+[[tl:Unang Pahina]]
+[[to:Peesi tali fiefia]]
+[[tpi:Fran pes]]
+[[tr:Ana Sayfa]]
+[[ty:Fa’ari’ira’a]]
+[[uk:Головна стаття]]
+[[ur:صفحہ اول]]
+[[uz:Bosh Sahifa]]
+[[vi:Trang Chính]]
+[[vls:Voorblad]]
+[[wa:Mwaisse pådje]]
+[[wo:Xët wu njëkk]]
+[[wuu:封面]]
+[[yi:הויפט זייט]]
+[[yo:Ojúewé Àkọ́kọ́]]
+[[zea:Vòblad]]
+[[zh:首页]]
+[[zh-classical:維基大典:卷首]]
