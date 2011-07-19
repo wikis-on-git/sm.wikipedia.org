@@ -4,7 +4,7 @@
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
 {| style="width:280px; border:none; background:none;"
 | style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Talofa lava [[Wikipedia]],,</div>
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Talofa lava [[Wikipedia]],</div>
 <div style="top:+0.2em; font-size:95%;">Afio mai, maliu mai, susū mai, ulufale mai i Wikipedia!.</div>
 <div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|'''{{NUMBEROFARTICLES}}''' matua o le upu]] [[Gagana Sāmoa|i le gagana samoa]]</div>
 |}
