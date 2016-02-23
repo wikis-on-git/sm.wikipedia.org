@@ -1,31 +1,84 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>Ausetalia</big></big><br /><big><big>'''Commonwealth of Australia'''</big></big>
-|-
-| style="background:#ffffff;" align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[File:Flag of Australia.svg|125px]]
-| align=center width=148 | [[File:Coat of Arms of Australia.svg|125px]]
-|-
-| align=center width=148 | [[fu'a o Ausetalia|fu‘a]]
-| align=center width=148 | [[Ofu o lima o Ausetalia|Ofu o lima]]
-|}
-|-
-| align=center colspan=2 style="background: #ffffff;" | 
-|-
-| '''[[Laumua]]'''
-| [[Canberra]]
-|-
-| '''[[Gagana tetele]]'''
-| [[Fa'aperetania]]
-|-
-| '''[[Tupe]]'''
-| [[Tala o ausetalia]] (AUD)
-|-
-| '''[[Aofai o Tagata]]'''
-| 20.266.899 
-|-
-| align=center colspan=2 style="background: #ffffff;" | [[File:Australia (orthographic projection).svg|200px]]
-|}
+{{Infobox Atunuu
+|conventional_long_name = Commonwealth of Australia |common_name        = Ausetalia
+|native_name        = Taupulega o Ausetalia
+|image_flag         = Flag of Australia (converted).svg
+|alt_flag           = A lanu moana fanua ma le fuʻa Union i le kuata sisi i luga, a sinasina e fitu faasino fetu tele i le kuata siʻitaga maualalo, ma le faaputuga o fetu o fetu sinasina lima i le lago - o se tasi tamai fetu e lima faasino ma le fa, e tetele atu, e fitu faasino fetu.
+|image_coat         = Coat of Arms of Australia.svg
+|alt_coat           = <!--alt text for coat of arms-->
+|national_anthem    = "[[Advance Australia Fair]]"{{lower|0.2em|{{refn|Vii tupu Ausetalia o le "[[Atua Laveai le Masiofo]]", sa taaalo i le afioaga o se tagata o le [[Maota o Windsor | Tupu aiga]] pe a latou i ai i Ausetalia. I isi tulaga talafeagai uma, o le [[vii o le atunuu]] o Ausetalia, "[[Advance Australia Fair]]", e taaalo.<ref>[http://www.itsanhonour.gov.au/symbols/anthem.cfm It's an Honour&nbsp;– Symbols&nbsp;– Australian National Anthem] and [http://dfat.gov.au/about-us/publications/corporate/protocol-guidelines/Pages/16-other-matters.aspx#163 DFAT&nbsp;– "Australian National Anthem"]; {{cite book |title=Parliamentary Handbook of the Commonwealth of Australia |edition=29th |origyear=2002|year=2005 |chapter=National Symbols |chapterurl=https://web.archive.org/web/20070611101901/http://www.aph.gov.au/library/handbook/40thparl/national+symbols.pdf |accessdate=7 June 2007}}</ref>|name="anthem explanation"|group="N"}}<!--end lower:-->}}<br /><br /><center>[[File:U.S. Navy Band, Advance Australia Fair (instrumental).ogg]]</center>
+|image_map          = Australia_with_AAT_(orthographic_projection).svg
+|alt_map            = <!--alt text for map-->
+|map_width          = 220px
+|capital            = [[Canberra]]
+|latd=35 |latm=18.48 |latNS=S |longd=149 |longm=7.47 |longEW=E
+|largest_city       = [[Sini]]
+|official_languages = [[Igilisi]] (faapouliuli)
+|languages_type     = [[National language]]
+|languages          = [[Igilisi]]
+|demonym            = {{hlist|[[Australians|Australian]] <br />[[Aussie]] (colloquial)<ref>See entry in the [[Macquarie Dictionary]].</ref><ref>{{cite book |title=[[Collins English Dictionary]] |year=2009 |publisher=[[HarperCollins]] |location=Bishopbriggs, Glasgow |isbn=978-0-00-786171-2 |page=18 }}</ref><!--end hlist:-->}}
+|government_type    = Malo Faitupu Faavae Palemene Feterale
+|leader_title1      = [[Tupu o Ausetalia|Tupu]]
+|leader_name1       = [[Masiofo Elisapeta II ]]
+|leader_title2      = {{nowrap|[[Kovana Sili o Ausetalia|Kovana Sili]]}}
+|leader_name2       = [[Peteru Cosgrove|Alii Peteru Cosgrove]]
+|leader_title3      = [[Palemia o Ausetalia|Palemia]]
+|leader_name3       = [[Malcolm Turnbull]]
+|leader_title4      = [[Faamasino Sili o Ausetalia|Faamasino Sili]]
+|leader_name4       = [[Robert Farani]]
+|legislature        = [[Palemene o Ausetalia|Palemene]]
+|upper_house        = [[Senate Ausetalia|Senate]]
+|lower_house        = [[Maota o Sui o Ausetalia|Maota o Sui]]
+|sovereignty_type   = Tū toʻatasi
+|sovereignty_note   = Mai le [[Iunaite Malo o Peretania Tele ma Aialani|Iunaite Malo]]
+|established_event1 = [[Aufeterale o Ausetalia|Aufeterale]], [[Tusi faʻavae o Ausetalia|Tusi faʻavae]]
+|established_date1  = 1 Ianuari 1901
+|established_event2 = [[Tulafono o Mulimulitai Tulafono Vaetamaina 1942|Tulafono o Mulimulitai Tulafono Vaetamaina]]
+|established_date2  = {{nowrap|9 Okitopa 1942 {{small|(with effect<br />mai le 3 Setema 1939)}}}}
+|established_event3 = [[Ausetalia Tulafono 1986|Ausetalia Tulafono]]
+|established_date3  = 3 Mati 1986
+|area_rank          = 6th
+|area_magnitude     = 1 E12
+|area               = 7,692,024
+|areami²            = 2,988,888 <!--Do not remove [[WP:MOSNUM]]-->
+|population_estimate      = 20,555,300 
+|population_estimate_year = 2016
+|population_estimate_rank = 51
+|population_estimate_year = {{CURRENTYEAR}}
+|population_census        = 21,507,717<ref>{{Census 2011 AUS|id=0|name=Australia|accessdate=21 June 2012|quick=on}}</ref>
+|population_census_year   = 2011
+|population_density       = 2.8
+|population_densitymi²    = 7.3 <!--Do not remove [[WP:MOSNUM]]-->
+|population_density_rank  = 236
+|GDP_PPP            = {{nowrap|$1.137 trillion<ref name=IMF>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/02/weodata/weorept.aspx?pr.x=75&pr.y=9&sy=2014&ey=2020&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=Australia |publisher=International Monetary Fund |date=October 2015 |accessdate=9 October 2015}}</ref>}}
+|GDP_PPP_rank       = 19th
+|GDP_PPP_year       = 2015
+|GDP_PPP_per_capita = $47,318<ref name=IMF/>
+|GDP_PPP_per_capita_rank = 17th
+|GDP_nominal        = {{nowrap|$1.241 trillion<ref name=IMF/>}}
+|GDP_nominal_rank   = 12th
+|GDP_nominal_year   = 2015
+|GDP_nominal_per_capita = $51,642<ref name=IMF/>
+|GDP_nominal_per_capita_rank = 9th
+|Gini           = 33.6<!--number only-->
+|Gini_ref       = <ref>{{cite web|title=OECD Economic Surveys: Norway 2012|url=http://www.keepeek.com/Digital-Asset-Management/oecd/economics/oecd-economic-surveys-norway-2012/gini-coefficients-before-and-after-taxes-and-transfers_eco_surveys-nor-2012-graph1-en#page1}}</ref>
+|Gini_rank      = 19th
+|Gini_year      = 2012
+|Gini_change    = <!--increase/decrease/steady-->
+|HDI_year                 = 2015
+|HDI                      = 0.935
+|HDI_rank                 = 3
+|HDI_category             = <font color=#009900>matagofie</font>
+|currency       = [[Tala Ausetalia]]
+|currency_code  = AUD
+|time_zone      = [[Taimi i Ausetalia|eseʻese]]<ref name="time" group="N">E eseese laiti mai tolu sone faavae taimi; tagai i le [[Taimi i Ausetalia]].</ref>
+|utc_offset     = +8 to +10.5
+|time_zone_DST  = [[Taimi i Ausetalia|eseʻese]]<ref name="time" group="N" />
+|utc_offset_DST = +8 to +11.5
+|date_format    = dd-mm-yyyy
+|drives_on      = [[:en:Right- and left-hand traffic#Australia|taumatau]]
+|cctld          = [[.au]]
+|calling_code   = [[61]]
+}}
 
 ''''O 'Ausetalia''', 'o se [[konetineta]] i le [[Vasa Pasefika]]. 'O se atunu'u telē tele lea atunu'u. E maua i le itū i saute i sisifo o [[Samoa]], 'ae ta'atia i le itū i mātū i sisifo o [[Niu Sila]]. 'O se atunu'u e mau'oa tele 'Ausetalia, 'aua e tele ona 'oloa mai ona minerale ma isi 'oloa gaosia mai ona fa'ato'aga fa'apea ona laufanua. O le a le atunuu lona ono-aupito tele lalolagi e ala i le eria atoa. atunuu e lata ane e aofia ai [[Papua Niu Kini]], [[Initonesia]] ma [[Sasaʻe Timor]] i le itu i matu; [[Le Motu o Solomona]] ma [[Vanuatu]] i le itu i sasae-matu; ma Niu Sila i le itu i saute-sasaʻe. Mo e uiga i le 50,000 tausaga i luma o le muamua le faatalanoaga o Peretania i le senituri lona sefulu valu tuai, na aina Ausetalia e ala i le atunuu Ausetalia, na saunoa gagana faavasegaina i pe tusa lea ma le 250 vaega gagana. Ina ua mavae le mauaina o [[Europa]] o le konetineta e suesue [[Holani]] i le 1606, sa fai mai le afa i sasaʻe o Ausetalia e ala i [[Peretania Tele]] i le 1770 ma muai nofoia e ala i felauaiga penal i le kolone o Uelese i saute fou mai le 26 o Ianuari 1788. tuputupu pea le faitau aofai o tagata i le tele o tausaga mulimuli ane ai; sa suesueina ma se nofoaga faaopoopo pale lava pulega e lima, na faavaeina i le konetineta. I le aso 1 Ianuari 1901, faatasi ai faatasi le nofoaga e ono, ua avea le Taupulega o Ausetalia. Talu tuufaatasiga, ua tausia Ausetalia se faiga saoloto faatemokalasi faaupufai fale o manu e galue e avea o se faatemokalasi Palemene feterale ma Malo Faitupu faavae e aofia ai le ono setete ma ni teritori. O le faitau aofai o tagata o le 24 miliona o le tele o le taulaga ma le mamafa faasagatonu i setete i sasae ma i luga o le talafatai.
 O Ausetalia o se atunuu atiina ae ma se tasi o le mauoa i le lalolagi, ma le-aupito tele lona 12 tamaoaiga o le lalolagi. I le 2014 sa i ai le maualuga o le lona lima o le lalolagi Ausetalia i le capita tupe maua. tupe faaalu militeli a Ausetalia e 13-aupito tele a le lalolagi. O le faasino upu o le atinae o tagata lona lua-aupito maualuga aafia ai le lalolagi, faatulagaina maualuga i Ausetalia le tele o faatusatusaga faava o malo o faatinoga o le atunuu, e pei o le tulaga lelei o le olaga, o le soifua maloloina, aoaoga, le saolotoga o le tamaoaiga, ma le puipuiga o le saolotoga tau le va ma aia tatau faaupufai.
@@ -99,8 +152,12 @@ E tusa o le 24% o Ausetalia i le tausaga o le 15 aunoa auai i faatulagaina gaoio
 
 ==Tagai foi i le==
 ==Faamatalaga==
+==Faasinomaga==
+<references group="N"/>
+
 ==Faitau atili==
 ==Sootaga fafo==
+
 
 <!--Interwiki-->
 
