@@ -2,15 +2,13 @@
 [[File:Flag_of_Brazil.svg|right|thumb|]]
 
 {{Country
-| native_name              = República Federativa do Brasil
+| name              = República Federativa do Brasil
 | conventional_long_name   = 
 | common_name              = Brazil
-| image_flag               = Flag of Brazil.svg
-| image_coat               = Coat of arms of Brazil.svg
-| national_motto          = "Order and Progress"
-| image_map                = LocationBrazil.svg
-| national_anthem          = ''[[Hino Nacional Brasileiro]]''
-| official_languages       = [[ChiPortuguese]]
+| flag               = Flag of Brazil.svg
+| coa             = Coat of arms of Brazil.svg
+| map                = LocationBrazil.svg
+| language       = [[ChiPortuguese]]
 | demonym                   = Brazilian
 | capital                  = [[Brasília]]
 | latd=5 |latm=50 |latNS=N |longd=55 |longm=10 |longEW=W
